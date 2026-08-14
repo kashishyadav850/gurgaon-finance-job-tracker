@@ -1,49 +1,56 @@
-Barclays
-JPMorgan Chase
-Nomura
-Fidelity Investments
-HSBC
-Standard Chartered
-Bank of America
-S&P Global
-Genpact
-WNS Global Services
-EXL Service
-McKinsey & Company
-Boston Consulting Group
-Bain & Company
-Deloitte India
-EY India
-KPMG India
-PwC India
-HDFC Bank
-ICICI Bank
-Axis Bank
-Kotak Mahindra Bank
-Yes Bank
-IDFC First Bank
-IndusInd Bank
-SBI Cards
-Bajaj Finserv
-Fullerton India
-Aditya Birla Capital
-PolicyBazaar (PB Fintech)
-Zomato / Eternal
-MakeMyTrip
-OYO
-Paytm
-Info Edge (Naukri.com)
-IndiaMART
-Fractal Analytics
-TresVista
-Spinny
-CarDekho Group
-Housing.com / PropTiger
-Avendus Capital
-Motilal Oswal
-Edelweiss Group
-JM Financial
-NCAER
-ICRIER
-TERI
-NITI Aayog (internships)
+{
+  "companies": [
+    {"name": "American Express", "domain": "aexp.com", "tokens": ["americanexpress", "aexp"]},
+    {"name": "HSBC", "domain": "hsbc.com", "tokens": ["hsbc"]},
+    {"name": "Barclays", "domain": "barclays.com", "tokens": ["barclays"]},
+    {"name": "JPMorgan Chase", "domain": "jpmorgan.com", "tokens": ["jpmorgan", "jpmorganchase"]},
+    {"name": "Fidelity Investments", "domain": "fidelity.com", "tokens": ["fidelity", "fmr"]},
+    {"name": "Standard Chartered", "domain": "sc.com", "tokens": ["standardchartered", "scb"]},
+    {"name": "Bank of America", "domain": "bankofamerica.com", "tokens": ["bankofamerica", "bofa"]},
+    {"name": "S&P Global", "domain": "spglobal.com", "tokens": ["spglobal"]},
+    {"name": "Moody's", "domain": "moodys.com", "tokens": ["moodys"]},
+    {"name": "NatWest Group", "domain": "natwestgroup.com", "tokens": ["natwestgroup", "natwest"]},
+    {"name": "Macquarie Group", "domain": "macquarie.com", "tokens": ["macquarie"]},
+    {"name": "Aviva India", "domain": "avivaindia.com", "tokens": ["aviva"]},
+    {"name": "Genpact", "domain": "genpact.com", "tokens": ["genpact"]},
+    {"name": "WNS Global Services", "domain": "wns.com", "tokens": ["wns"]},
+    {"name": "EXL Service", "domain": "exlservice.com", "tokens": ["exlservice", "exl"]},
+    {"name": "McKinsey & Company", "domain": "mckinsey.com", "tokens": ["mckinsey"]},
+    {"name": "Boston Consulting Group", "domain": "bcg.com", "tokens": ["bcg"]},
+    {"name": "Bain & Company", "domain": "bain.com", "tokens": ["bain"]},
+    {"name": "Deloitte India", "domain": "deloitte.com", "tokens": ["deloitte"]},
+    {"name": "EY India", "domain": "ey.com", "tokens": ["ey", "ernstandyoung"]},
+    {"name": "KPMG India", "domain": "kpmg.com", "tokens": ["kpmg"]},
+    {"name": "PwC India", "domain": "pwc.in", "tokens": ["pwc"]},
+    {"name": "HDFC Bank", "domain": "hdfcbank.com", "tokens": ["hdfcbank", "hdfc"]},
+    {"name": "ICICI Bank", "domain": "icicibank.com", "tokens": ["icicibank", "icici"]},
+    {"name": "Axis Bank", "domain": "axisbank.com", "tokens": ["axisbank"]},
+    {"name": "Kotak Mahindra Bank", "domain": "kotak.com", "tokens": ["kotak"]},
+    {"name": "Yes Bank", "domain": "yesbank.in", "tokens": ["yesbank"]},
+    {"name": "IDFC First Bank", "domain": "idfcfirstbank.com", "tokens": ["idfcfirstbank", "idfcfirst"]},
+    {"name": "IndusInd Bank", "domain": "indusind.com", "tokens": ["indusind"]},
+    {"name": "SBI Cards", "domain": "sbicard.com", "tokens": ["sbicard", "sbicards"]},
+    {"name": "Bajaj Finserv", "domain": "bajajfinserv.in", "tokens": ["bajajfinserv"]},
+    {"name": "Fullerton India", "domain": "fullertonindia.com", "tokens": ["fullertonindia"]},
+    {"name": "Aditya Birla Capital", "domain": "adityabirlacapital.com", "tokens": ["adityabirlacapital", "abcapital"]},
+    {"name": "PolicyBazaar (PB Fintech)", "domain": "policybazaar.com", "tokens": ["policybazaar", "pbfintech"]},
+    {"name": "Zomato / Eternal", "domain": "zomato.com", "tokens": ["zomato", "eternal"]},
+    {"name": "MakeMyTrip", "domain": "makemytrip.com", "tokens": ["makemytrip", "mmt"]},
+    {"name": "OYO", "domain": "oyorooms.com", "tokens": ["oyo", "oyorooms"]},
+    {"name": "Paytm", "domain": "paytm.com", "tokens": ["paytm", "one97"]},
+    {"name": "Info Edge (Naukri.com)", "domain": "infoedge.in", "tokens": ["infoedge", "naukri"]},
+    {"name": "IndiaMART", "domain": "indiamart.com", "tokens": ["indiamart"]},
+    {"name": "Fractal Analytics", "domain": "fractal.ai", "tokens": ["fractal", "fractalanalytics"]},
+    {"name": "TresVista", "domain": "tresvista.com", "tokens": ["tresvista"]},
+    {"name": "Spinny", "domain": "spinny.com", "tokens": ["spinny"]},
+    {"name": "CarDekho Group", "domain": "cardekho.com", "tokens": ["cardekho"]},
+    {"name": "Housing.com / PropTiger", "domain": "housing.com", "tokens": ["housing", "proptiger", "reaindia"]},
+    {"name": "Avendus Capital", "domain": "avendus.com", "tokens": ["avendus"]},
+    {"name": "Motilal Oswal", "domain": "motilaloswalgroup.com", "tokens": ["motilaloswal"]},
+    {"name": "Edelweiss Group", "domain": "edelweissfin.com", "tokens": ["edelweiss", "edelweissfin"]},
+    {"name": "JM Financial", "domain": "jmfl.com", "tokens": ["jmfinancial", "jmfl"]},
+    {"name": "NCAER", "domain": "ncaer.org", "tokens": ["ncaer"]},
+    {"name": "ICRIER", "domain": "icrier.org", "tokens": ["icrier"]},
+    {"name": "TERI", "domain": "teriin.org", "tokens": ["teri"]}
+  ]
+}
