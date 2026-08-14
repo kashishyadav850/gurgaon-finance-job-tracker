@@ -1,0 +1,42 @@
+{
+  "eightfold": [
+    {
+      "name": "American Express",
+      "url": "https://aexp.eightfold.ai/careers?location=India&domain=aexp.com"
+    },
+    {
+      "name": "HSBC",
+      "url": "https://portal.careers.hsbc.com/careers?domain=hsbc.com&location=India"
+    }
+  ],
+
+  "custom": [
+    {
+      "name": "Barclays",
+      "url": "https://search.jobs.barclays/",
+      "notes": "Confirm listing page URL + selectors before first run - site structure needs inspection with Playwright"
+    }
+  ],
+
+  "not_yet_scraped": {
+    "note": "Companies from the research list that still need their platform identified. Move each one into 'eightfold' or 'custom' above once checked.",
+    "companies": [
+      "JPMorgan Chase (Oracle Cloud - separate scraper needed, not yet built)",
+      "Fidelity Investments",
+      "Standard Chartered",
+      "Bank of America",
+      "S&P Global",
+      "Genpact", "WNS Global Services", "EXL Service",
+      "McKinsey & Company", "BCG", "Bain & Company",
+      "Deloitte India", "EY India", "KPMG India", "PwC India",
+      "HDFC Bank", "ICICI Bank", "Axis Bank", "Kotak Mahindra Bank",
+      "Yes Bank", "IDFC First Bank", "IndusInd Bank",
+      "SBI Cards", "Bajaj Finserv", "Fullerton India", "Aditya Birla Capital",
+      "PolicyBazaar", "Zomato", "MakeMyTrip", "OYO", "Paytm",
+      "Info Edge", "IndiaMART", "Fractal Analytics", "TresVista",
+      "Spinny", "CarDekho", "Housing.com",
+      "Avendus Capital", "Motilal Oswal", "Edelweiss Group", "JM Financial",
+      "NCAER", "ICRIER", "TERI", "NITI Aayog"
+    ]
+  }
+}
